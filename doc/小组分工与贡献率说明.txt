@@ -1,0 +1,52 @@
+
+1.【陈曼生】
+(1).字符画：
+AscConverter.java
+AscPool.java
+Square.java
+(2).图像平滑：
+ImageSmooth.java
+
+2.【管伟键】
+(1).界面：
+mainFrame.java
+(2).随机颜值：
+random.java
+
+3.【郭海旋】
+(1).灰度直方图：
+ImageHistogram.java
+ImageHistUI.java
+(2).直方图均衡：
+ImageHistEqualization.java
+
+4.【关金槐】
+(1).图像缩放：
+ImageScale.java
+(2).图像加噪：
+ImageDenoise.java
+(3).拼图游戏：
+Jigsaw.java
+
+5.【钟泳栅】
+(1).画板：
+ImageDrawing.java
+(2).图像锐化：
+ImageSharpen.java
+
+6.【关雨晗】
+(1).频谱图与傅里叶逆变换：
+Dft1d.java
+Dft2d.java
+Complex.java
+(2).三值滤波：
+ImageFilter.java
+
+
+文档分工：
+1. 安装包与《安装部署说明》——【关金槐】
+2. 《用户手册》或《使用说明》——【管伟键】
+3. 《软件需求规格说明书》(SRS)——【郭海旋】
+4. 《软件设计文档》(SDS)——【关雨晗】
+5. 《小组分工与贡献率说明》——【陈曼生】
+
